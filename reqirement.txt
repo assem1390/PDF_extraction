@@ -1,0 +1,1 @@
+pip install langchain PyPDF2 python-dotenv streamlit faiss-cpu streamlit-extras pandas openai tiktoken
